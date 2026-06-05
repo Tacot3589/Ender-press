@@ -1,4 +1,4 @@
-# Ender press - Totally most complicated 4718064789126790342 hours put in project, costs six/seven gazilion dollarts
+# Ender press - Totally most complicated 4718064789126790342 hours put in project, costs six/seven gazilion dollarzz
 It is interst press, that i made from some ender 3 parts. 
 I was tired of putting insert by hand. 
 I 3d printer one insert press but it was hella junky and completly not straight! 
@@ -22,4 +22,4 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 | random filament | 1 |
 | *one gazilion dollars, sent to creator of this repo* | 1 |
 
-##!(Also on hackclub)[https://forge.hackclub.com/projects/710]
+##[Also on Forge (HackClub)](https://forge.hackclub.com/projects/710)
