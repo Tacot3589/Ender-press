@@ -23,3 +23,4 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 | *one gazilion dollars, sent to creator of this repo* | 1 |
 
 ## [Also on Forge (HackClub)](https://forge.hackclub.com/projects/710)
+*All rights reserver, iddunno, just dont sold it as yours, for gazilion dollars *(im looking at you, big bad corporations)*. No wait, you can use or sell it, but only if you pay me six or seven gazzilion (or 10^67) US dollars!*
