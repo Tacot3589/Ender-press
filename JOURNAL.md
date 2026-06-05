@@ -59,5 +59,5 @@ BOM? lol. Yea, bom.
 Some readme and sent for rewiev!
 
 Heres photos!
-![imh1](IMGs/8.jpg)
-**Total time spent: .7 hours**
+![imh1](IMGs/10.jpg)
+**Total time spent: .4 hours**
