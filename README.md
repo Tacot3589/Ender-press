@@ -22,4 +22,4 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 | random filament | 1 |
 | *one gazilion dollars, sent to creator of this repo* | 1 |
 
-##[Also on Forge (HackClub)](https://forge.hackclub.com/projects/710)
+## [Also on Forge (HackClub)](https://forge.hackclub.com/projects/710)
