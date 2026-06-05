@@ -15,7 +15,7 @@ So enjoy this simple one-day-project!
 Heres photos!
 ![stative](IMGs/1.jpg)
 ![measurments](IMGs/2.jpg)
-**Total time spent: .6 hours**
+**Total time spent: 0.6 hours**
 
 
 # July 06: Base
@@ -60,4 +60,4 @@ Some readme and sent for rewiev!
 
 Heres photos!
 ![imh1](IMGs/10.jpg)
-**Total time spent: .4 hours**
+**Total time spent: 0.4 hours**
