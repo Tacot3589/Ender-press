@@ -21,3 +21,5 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 | rubber band | 1 |
 | random filament | 1 |
 | *one gazilion dollars, sent to creator of this repo* | 1 |
+
+##!(Also on hackclub)[https://forge.hackclub.com/projects/710]
