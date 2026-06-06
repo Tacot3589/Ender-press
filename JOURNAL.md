@@ -63,7 +63,7 @@ Heres photos!
 **Total time spent: 0.4 hours**
 
 
-# Next day lol: Feedback from Soup
+# Next day lol: Feedback from Souptik Samanta
 
 Instruction on how to and .step, .stl files added!
 
