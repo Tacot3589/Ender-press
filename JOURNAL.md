@@ -61,3 +61,11 @@ Some readme and sent for rewiev!
 Heres photos!
 ![imh1](IMGs/10.jpg)
 **Total time spent: 0.4 hours**
+
+
+# Next day lol: Feedback from Soup
+
+Instruction on how to and .step, .stl files added!
+
+![imageeg](IMGs/11.jpg)
+**Total time spent: 0.1 hours**
