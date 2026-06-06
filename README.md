@@ -8,6 +8,7 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 
 ## Image!
 ![img](IMGs/9.jpg)
+![img](IMGs/12.jpg)
 
 # BOM:
 | Name | Quantity |

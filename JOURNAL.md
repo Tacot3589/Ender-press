@@ -63,9 +63,10 @@ Heres photos!
 **Total time spent: 0.4 hours**
 
 
-# Next day lol: Feedback from Souptik Samanta
+# Next day lol: Feedback from Soup
 
 Instruction on how to and .step, .stl files added!
+He also told me to add more images to readbe, but i think i will add them once i print everything and yk, classy images with good lightning!
 
 ![imageeg](IMGs/11.jpg)
 **Total time spent: 0.1 hours**
