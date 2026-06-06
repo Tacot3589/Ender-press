@@ -16,7 +16,8 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 | Ender 3 leftovers (2020 extrusion, v-slot) | 1 |
 | More ender 3 leftovers (assembly with plate and wheels) | 1 |
 | m4 t-nuts | 4 |
-| m4 screws | 5 |
+| m4 screws | 4 |
+| m5 screw | 1 |
 | m4 nuts | 4 |
 | m3 screws countersunk | 7 |
 | soldering iron from temu idk i have one from a dew year ago | 1 |
@@ -25,17 +26,17 @@ I 3d printer one insert press but it was hella junky and completly not straight!
 | *one gazilion dollars, sent to creator of this repo* | 1 |
 
 
-# How to put this thing into wokring insert press?
+# How to put this thing into working insert press?
  - Print all of the parts
  - Screw 2020 extrusion with tnuts into base
  - Tap m3 holes in soldering iron holder
- - Put soldering iron holder onto metal plate with wheel from ender
+ - Put soldering iron holder onto metal plate (one from ender, with wheels)
  - Add nuts!
  - Screw 7 m3 screw to hold your soldering iron
  - Add rubber band, screw it with small m2 screw (not necesary tbh)
- - Screw cap onto top of the extrusion
+ - Screw cap onto top of the extrusion with one M5 screw
  - Congrats! You can now press inserts!
- - *If you are not sure go check out image above*
+ - *If you are not sure go check out image above, with explanations what should go where*
 
 
 ## [Also on Forge (HackClub)](https://forge.hackclub.com/projects/710)
